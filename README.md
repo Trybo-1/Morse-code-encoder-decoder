@@ -60,6 +60,9 @@ HELLO
 ## Project Structure
 
 ```
+docs/
+├── build.bat
+└── clean.bat
 src/
 │
 ├── Main.java
